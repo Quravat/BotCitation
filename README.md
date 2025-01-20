@@ -87,4 +87,4 @@ N'hésitez pas à ouvrir une issue si vous avez des questions ou des retours. To
 
 Si ce projet vous est utile, merci de **l'étoiler** sur GitHub ⭐ – votre soutien compte beaucoup pour moi !  
 Et n'oubliez pas de contribuer en ouvrant des issues ou en soumettant des pull requests. Toutes les contributions sont les bienvenues ! 🙌
-N'hésitez pas a ajouter des citations pour le projet
+N'hésitez pas a ajouter des citations pour le projet !
